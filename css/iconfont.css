@@ -17,26 +17,26 @@
 
 .icon-steam:before {
   content: "\e6bf";
-  color: "#3f51b5";
+  color: #3f51b5;
 }
 
 .icon-email:before {
   content: "\e628";
-  color: "#d42da0";
+  color: #d42da0;
 }
 
 .icon-GitHub:before {
   content: "\ea0a";
-  color: "#2196f3";
+  color: #2196f3;
 }
 
 .icon-wangyiyunyinle1:before {
   content: "\e600";
-  color: "#ff5722";
+  color: #ff5722;
 }
 
 .icon-bilibili:before {
   content: "\e620";
-  color: "#ff007d";
+  color: #ff007d;
 }
 
