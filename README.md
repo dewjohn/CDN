@@ -1,3 +1,4 @@
 # CDN
 This is CDN 
-include images/js/css
+
+Include images/js/css/others
