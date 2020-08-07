@@ -6,10 +6,7 @@
  **/
 
 !(function() {
-  var script = document.getElementById("ribbon");
-  var mb = script.getAttribute("mobile");
   if (
-    mb == "false" &&
     /Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)
   ) {
     return;
